@@ -23,8 +23,6 @@ ApplicationWindow {
         }
 
 
-
-
         ToolButton {
             id: toolButton
             width: 140
@@ -73,8 +71,8 @@ ApplicationWindow {
             id: logo
             scale: window.height / 1530
             source: "qrc:/vallet.png"
-            width: 90
-            height: 90
+            width: 100
+            height: 100
             smooth: true
             anchors.verticalCenter: billVal.verticalCenter
             anchors.left: infoRect.left
