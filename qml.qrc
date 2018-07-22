@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>logo.png</file>
+        <file>RotatingLogo.png</file>
+        <file>Menu/access.png</file>
+        <file>Menu/activity.png</file>
+        <file>Menu/call.png</file>
+        <file>Menu/changeplan.png</file>
+        <file>Menu/gps.png</file>
+        <file>Menu/master.png</file>
+        <file>Menu/oursite.png</file>
+        <file>Menu/payhistory.png</file>
+        <file>Menu/quit.png</file>
+        <file>Menu/skin.png</file>
+        <file>Menu/social.png</file>
+        <file>Menu/trusted.png</file>
+        <file>arrow-left.png</file>
+        <file>toolPic.png</file>
+    </qresource>
+</RCC>

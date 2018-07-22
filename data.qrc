@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>client1.pem</file>
+        <file>rootCA.pem</file>
+    </qresource>
+</RCC>
